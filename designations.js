@@ -550,7 +550,7 @@ DesignationSystem.PAGASA1963 = new DesignationSystem({
 });
 
 DesignationSystem.PAGASA2001 = new DesignationSystem({
-    displayName: 'PAGASA (2005-2010)',
+    displayName: 'PAGASA (2001-2004)',
     secondary: true,
     numEnable: false,
     annual: true,
