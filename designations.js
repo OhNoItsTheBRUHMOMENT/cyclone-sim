@@ -550,21 +550,6 @@ DesignationSystem.PAGASA1963 = new DesignationSystem({
 });
 
 DesignationSystem.PAGASA2001 = new DesignationSystem({
-    displayName: 'PAGASA (2001-2004)',
-    secondary: true,
-    numEnable: false,
-    annual: true,
-    anchor: 1963,
-    nameThresh: 0,
-    mainLists: [
-        ["Amang","Batibot","Chedeng","Dodong","Egay","Falcon","Gilas","Harurot","Ineng","Juaning","Kabayan","Lakay","Mina","Ni\u00f1a","Onyok","Pogi","Quiel","Roskas","Sikat","Tisoy","Ursula","Viring","Weng","Yoyoy","Zigzag","Abe","Berto","Charing","Danggit","Estoy","Fuago","Gening","Hantik","Irog","Jaime"],
-        ["Ambo","Butchoy","Cosme","Dindo","Enteng","Frank","Gener","Helen","Igme","Julian","Karen","Lawin","Marce","Nina","Ofel","Pablo","Quinta","Rolly","Siony","Tonyo","Unding","Violeta","Winnie","Yoyong","Zosimo","Alakdan","Baldo","Clara","Dencio","Estong","Felipe","Gardo","Heling","Ismael","Julio"],
-        ["Auring","Barok","Crising","Darna","Emong","Feria","Gorio","Huaning","Isang","Jolina","Kiko","Labuyo","Maring","Nanang","Ondoy","Pabling","Quedan","Roleta","Sibak","Talahib","Ubbeng","Vinta","Wilma","Yaning","Zuma","Alamid","Bruno","Conching","Dolor","Ernie","Florante","Gerardo","Hernan","Isko","Jerome"],
-        ["Agaton","Basyang","Caloy","Dagul","Espada","Florita","Gardo","Hambalos","Inday","Juan","Kaka","Lagalag","Milenyo","Neneng","Ompong","Paloma","Quadro","Rapido","Sibasib","Tagbanwa","Usman","Venus","Wisik","Yayang","Zeny","Agila","Bagwis","Ciriaco","Diego","Elena","Forte","Gunding","Hunyango","Itoy","Jessa"]
-     ]
-});
-
-DesignationSystem.PAGASA2001 = new DesignationSystem({
     displayName: 'PAGASA (2005-2010)',
     secondary: true,
     numEnable: false,
@@ -705,7 +690,6 @@ DesignationSystem.presetDesignationSystems = [
     DesignationSystem.PAGASA,
     DesignationSystem.PAGASA1963,
     DesignationSystem.PAGASA2001,
-    DesignationSystem.PAGASA2005,
     DesignationSystem.northIndianOcean,
     DesignationSystem.australianRegionBoM,
     DesignationSystem.southPacific,
