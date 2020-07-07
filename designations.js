@@ -580,6 +580,21 @@ DesignationSystem.PAGASA2001 = new DesignationSystem({
     anchor: 1963,
     nameThresh: 0,
     mainLists: [
+        ["Amang","Batibot","Chedeng","Dodong","Egay","Falcon","Gilas","Harurot","Ineng","Juaning","Kabayan","Lakay","Mina","Ni\u00f1a","Onyok","Pogi","Quiel","Roskas","Sikat","Tisoy","Ursula","Viring","Weng","Yoyoy","Zigzag","Abe","Berto","Charing","Danggit","Estoy","Fuago","Gening","Hantik","Irog","Jaime"],
+        ["Ambo","Butchoy","Cosme","Dindo","Enteng","Frank","Gener","Helen","Igme","Julian","Karen","Lawin","Marce","Nina","Ofel","Pablo","Quinta","Rolly","Siony","Tonyo","Unding","Violeta","Winnie","Yoyong","Zosimo","Alakdan","Baldo","Clara","Dencio","Estong","Felipe","Gardo","Heling","Ismael","Julio"],
+        ["Auring","Barok","Crising","Darna","Emong","Feria","Gorio","Huaning","Isang","Jolina","Kiko","Labuyo","Maring","Nanang","Ondoy","Pabling","Quedan","Roleta","Sibak","Talahib","Ubbeng","Vinta","Wilma","Yaning","Zuma","Alamid","Bruno","Conching","Dolor","Ernie","Florante","Gerardo","Hernan","Isko","Jerome"],
+        ["Agaton","Basyang","Caloy","Dagul","Espada","Florita","Gardo","Hambalos","Inday","Juan","Kaka","Lagalag","Milenyo","Neneng","Ompong","Paloma","Quadro","Rapido","Sibasib","Tagbanwa","Usman","Venus","Wisik","Yayang","Zeny","Agila","Bagwis","Ciriaco","Diego","Elena","Forte","Gunding","Hunyango","Itoy","Jessa"]
+     ]
+});
+
+DesignationSystem.PAGASA2005 = new DesignationSystem({
+    displayName: 'PAGASA (2005-2008)',
+    secondary: true,
+    numEnable: false,
+    annual: true,
+    anchor: 1963,
+    nameThresh: 0,
+    mainLists: [
         ["Amang","Bebeng","Chedeng","Dodong","Egay","Falcon","Goring","Hanna","Ineng","Juaning","Kabayan","Lando","Mina","Nonoy","Onyok","Pedring","Quiel","Ramon","Sendong","Tisoy","Ursula","Viring","Weng","Yoyoy","Zigzag","Abe","Berto","Charo","Dado","Estoy","Felion","Gening","Herman","Irma","Jaime"],
         ["Ambo","Butchoy","Cosme","Dindo","Enteng","Frank","Gener","Helen","Igme","Julian","Karen","Lawin","Marce","Nina","Ofel","Pablo","Quinta","Rolly","Siony","Tonyo","Ulysses","Vicky","Warren","Yoyong","Zosimo","Alakdan","Baldo","Clara","Dencio","Estong","Felipe","Gardo","Heling","Ismael","Julio"],
         ["Auring","Bising","Crising","Dante","Emong","Feria","Gorio","Huaning","Isang","Jolina","Kiko","Labuyo","Maring","Nando","Ondoy","Pepeng","Quedan","Ramil","Santi","Tino","Urduja","Vinta","Wilma","Yolanda","Zoraida","Alamid","Bruno","Conching","Dolor","Ernie","Florante","Gerardo","Hernan","Isko","Jerome"],
@@ -689,6 +704,120 @@ DesignationSystem.atlantic1979 = new DesignationSystem({
     ]
 });
 
+DesignationSystem.atlantic1985 = new DesignationSystem({
+    displayName: 'Atlantic (1985-1990)',
+    suffix: 'L',
+    annual: true,
+    anchor: 1979,
+    mainLists: [
+        ['Ana','Bob','Claudette','Danny','Elena','Fabian','Gloria','Henri','Isabel','Juan','Kate','Larry','Mindy','Nicholas','Odette','Peter','Rose','Sam','Teresa','Victor','Wanda'],
+        ['Andrew','Bonnie','Charley','Danielle','Earl','Frances','Georges','Hermine','Ivan','Jeanne','Karl','Lisa','Mitch','Nicole','Otto','Paula','Richard','Shary','Tomas','Virginie','Walter'],
+        ['Arlene','Bret','Cindy','Dennis','Emily','Floyd','Gert','Harvey','Irene','Jose','Katrina','Lenny','Maria','Nate','Ophelia','Philippe','Rita','Stan','Tammy','Vince','Wilma'],
+        ['Alberto','Beryl','Chris','Debby','Ernesto','Florence','Gilbert','Helene','Isaac','Joan','Keith','Leslie','Michael','Nadine','Oscar','Patty','Rafael','Sandy','Tony','Valerie','William'],
+        ['Allison','Barry','Chantal','Dean','Erin','Felix','Gabrielle','Hugo','Iris','Jerry','Karen','Luis','Marilyn','Noel','Opal','Pablo','Roxanne','Sebastien','Tanya','Van','Wendy'],
+        ['Arthur','Bertha','Cesar','Diana','Edouard','Fran','Gustav','Hortense','Isidore','Josephine','Klaus','Lili','Marco','Nana','Omar','Paloma','Rene','Sally','Teddy','Vicky','Wilfred']
+    ],
+    auxLists: [
+        ['Alpha','Beta','Gamma','Delta','Epsilon','Zeta','Eta','Theta','Iota','Kappa','Lambda','Mu','Nu','Xi','Omicron','Pi','Rho','Sigma','Tau','Upsilon','Phi','Chi','Psi','Omega'],
+        ['Alef','Bet','Gimel','Dalet','He','Vav','Zayin','Het','Tet','Yod','Kaf','Lamed','Mem','Nun','Samekh','Ayin','Pe','Tsadi','Qof','Resh','Shin','Tav'] // Hebrew Alphabet not actually official, but added due to popular demand
+    ]
+});
+
+DesignationSystem.atlantic1991 = new DesignationSystem({
+    displayName: 'Atlantic (1991-1996)',
+    suffix: 'L',
+    annual: true,
+    anchor: 1979,
+    mainLists: [
+        ['Ana','Bob','Claudette','Danny','Erika','Fabian','Grace','Henri','Isabel','Juan','Kate','Larry','Mindy','Nicholas','Odette','Peter','Rose','Sam','Teresa','Victor','Wanda'],
+        ['Andrew','Bonnie','Charley','Danielle','Earl','Frances','Georges','Hermine','Ivan','Jeanne','Karl','Lisa','Mitch','Nicole','Otto','Paula','Richard','Shary','Tomas','Virginie','Walter'],
+        ['Arlene','Bret','Cindy','Dennis','Emily','Floyd','Gert','Harvey','Irene','Jose','Katrina','Lenny','Maria','Nate','Ophelia','Philippe','Rita','Stan','Tammy','Vince','Wilma'],
+        ['Alberto','Beryl','Chris','Debby','Ernesto','Florence','Gordon','Helene','Isaac','Joyce','Keith','Leslie','Michael','Nadine','Oscar','Patty','Rafael','Sandy','Tony','Valerie','William'],
+        ['Allison','Barry','Chantal','Dean','Erin','Felix','Gabrielle','Humberto','Iris','Jerry','Karen','Luis','Marilyn','Noel','Opal','Pablo','Roxanne','Sebastien','Tanya','Van','Wendy'],
+        ['Arthur','Bertha','Cesar','Dolly','Edouard','Fran','Gustav','Hortense','Isidore','Josephine','Kyle','Lili','Marco','Nana','Omar','Paloma','Rene','Sally','Teddy','Vicky','Wilfred']
+    ],
+    auxLists: [
+        ['Alpha','Beta','Gamma','Delta','Epsilon','Zeta','Eta','Theta','Iota','Kappa','Lambda','Mu','Nu','Xi','Omicron','Pi','Rho','Sigma','Tau','Upsilon','Phi','Chi','Psi','Omega'],
+        ['Alef','Bet','Gimel','Dalet','He','Vav','Zayin','Het','Tet','Yod','Kaf','Lamed','Mem','Nun','Samekh','Ayin','Pe','Tsadi','Qof','Resh','Shin','Tav'] // Hebrew Alphabet not actually official, but added due to popular demand
+    ]
+});
+
+DesignationSystem.atlantic1997 = new DesignationSystem({
+    displayName: 'Atlantic (1997-2002)',
+    suffix: 'L',
+    annual: true,
+    anchor: 1979,
+    mainLists: [
+        ['Ana','Bill','Claudette','Danny','Erika','Fabian','Grace','Henri','Isabel','Juan','Kate','Larry','Mindy','Nicholas','Odette','Peter','Rose','Sam','Teresa','Victor','Wanda'],
+        ['Alex','Bonnie','Charley','Danielle','Earl','Frances','Georges','Hermine','Ivan','Jeanne','Karl','Lisa','Mitch','Nicole','Otto','Paula','Richard','Shary','Tomas','Virginie','Walter'],
+        ['Arlene','Bret','Cindy','Dennis','Emily','Floyd','Gert','Harvey','Irene','Jose','Katrina','Lenny','Maria','Nate','Ophelia','Philippe','Rita','Stan','Tammy','Vince','Wilma'],
+        ['Alberto','Beryl','Chris','Debby','Ernesto','Florence','Gordon','Helene','Isaac','Joyce','Keith','Leslie','Michael','Nadine','Oscar','Patty','Rafael','Sandy','Tony','Valerie','William'],
+        ['Allison','Barry','Chantal','Dean','Erin','Felix','Gabrielle','Humberto','Iris','Jerry','Karen','Lorenzo','Michelle','Noel','Olga','Pablo','Rebekah','Sebastien','Tanya','Van','Wendy'],
+        ['Arthur','Bertha','Cristobal','Dolly','Edouard','Fay','Gustav','Hanna','Isidore','Josephine','Kyle','Lili','Marco','Nana','Omar','Paloma','Rene','Sally','Teddy','Vicky','Wilfred']
+    ],
+    auxLists: [
+        ['Alpha','Beta','Gamma','Delta','Epsilon','Zeta','Eta','Theta','Iota','Kappa','Lambda','Mu','Nu','Xi','Omicron','Pi','Rho','Sigma','Tau','Upsilon','Phi','Chi','Psi','Omega'],
+        ['Alef','Bet','Gimel','Dalet','He','Vav','Zayin','Het','Tet','Yod','Kaf','Lamed','Mem','Nun','Samekh','Ayin','Pe','Tsadi','Qof','Resh','Shin','Tav'] // Hebrew Alphabet not actually official, but added due to popular demand
+    ]
+});
+
+DesignationSystem.atlantic2003 = new DesignationSystem({
+    displayName: 'Atlantic (2003-2008)',
+    suffix: 'L',
+    annual: true,
+    anchor: 1979,
+    mainLists: [
+        ['Ana','Bill','Claudette','Danny','Erika','Fabian','Grace','Henri','Isabel','Juan','Kate','Larry','Mindy','Nicholas','Odette','Peter','Rose','Sam','Teresa','Victor','Wanda'],
+        ['Alex','Bonnie','Charley','Danielle','Earl','Frances','Gaston','Hermine','Ivan','Jeanne','Karl','Lisa','Matthew','Nicole','Otto','Paula','Richard','Shary','Tomas','Virginie','Walter'],
+        ['Arlene','Bret','Cindy','Dennis','Emily','Franklin','Gert','Harvey','Irene','Jose','Katrina','Lee','Maria','Nate','Ophelia','Philippe','Rita','Stan','Tammy','Vince','Wilma'],
+        ['Alberto','Beryl','Chris','Debby','Ernesto','Florence','Gordon','Helene','Isaac','Joyce','Kirk','Leslie','Michael','Nadine','Oscar','Patty','Rafael','Sandy','Tony','Valerie','William'],
+        ['Andrea','Barry','Chantal','Dean','Erin','Felix','Gabrielle','Humberto','Ingrid','Jerry','Karen','Lorenzo','Melissa','Noel','Olga','Pablo','Rebekah','Sebastien','Tanya','Van','Wendy'],
+        ['Arthur','Bertha','Cristobal','Dolly','Edouard','Fay','Gustav','Hanna','Ike','Josephine','Kyle','Laura','Marco','Nana','Omar','Paloma','Rene','Sally','Teddy','Vicky','Wilfred']
+    ],
+    auxLists: [
+        ['Alpha','Beta','Gamma','Delta','Epsilon','Zeta','Eta','Theta','Iota','Kappa','Lambda','Mu','Nu','Xi','Omicron','Pi','Rho','Sigma','Tau','Upsilon','Phi','Chi','Psi','Omega'],
+        ['Alef','Bet','Gimel','Dalet','He','Vav','Zayin','Het','Tet','Yod','Kaf','Lamed','Mem','Nun','Samekh','Ayin','Pe','Tsadi','Qof','Resh','Shin','Tav'] // Hebrew Alphabet not actually official, but added due to popular demand
+    ]
+});
+
+DesignationSystem.atlantic2009 = new DesignationSystem({
+    displayName: 'Atlantic (2009-2014)',
+    suffix: 'L',
+    annual: true,
+    anchor: 1979,
+    mainLists: [
+        ['Ana','Bill','Claudette','Danny','Erika','Fred','Grace','Henri','Ida','Joaquin','Kate','Larry','Mindy','Nicholas','Odette','Peter','Rose','Sam','Teresa','Victor','Wanda'],
+        ['Alex','Bonnie','Colin','Danielle','Earl','Fiona','Gaston','Hermine','Igor','Julia','Karl','Lisa','Matthew','Nicole','Otto','Paula','Richard','Shary','Tomas','Virginie','Walter'],
+        ['Arlene','Bret','Cindy','Don','Emily','Franklin','Gert','Harvey','Irene','Jose','Katia','Lee','Maria','Nate','Ophelia','Philippe','Rina','Sean','Tammy','Vince','Whitney'],
+        ['Alberto','Beryl','Chris','Debby','Ernesto','Florence','Gordon','Helene','Isaac','Joyce','Kirk','Leslie','Michael','Nadine','Oscar','Patty','Rafael','Sandy','Tony','Valerie','William'],
+        ['Andrea','Barry','Chantal','Dorian','Erin','Fernand','Gabrielle','Humberto','Ingrid','Jerry','Karen','Lorenzo','Melissa','Nestor','Olga','Pablo','Rebekah','Sebastien','Tanya','Van','Wendy'],
+        ['Arthur','Bertha','Cristobal','Dolly','Edouard','Fay','Gonzalo','Hanna','Isaias','Josephine','Kyle','Laura','Marco','Nana','Omar','Paulette','Rene','Sally','Teddy','Vicky','Wilfred']
+    ],
+    auxLists: [
+        ['Alpha','Beta','Gamma','Delta','Epsilon','Zeta','Eta','Theta','Iota','Kappa','Lambda','Mu','Nu','Xi','Omicron','Pi','Rho','Sigma','Tau','Upsilon','Phi','Chi','Psi','Omega'],
+        ['Alef','Bet','Gimel','Dalet','He','Vav','Zayin','Het','Tet','Yod','Kaf','Lamed','Mem','Nun','Samekh','Ayin','Pe','Tsadi','Qof','Resh','Shin','Tav'] // Hebrew Alphabet not actually official, but added due to popular demand
+    ]
+});
+
+DesignationSystem.atlantic2015 = new DesignationSystem({
+    displayName: 'Atlantic (2015-2018)',
+    suffix: 'L',
+    annual: true,
+    anchor: 1979,
+    mainLists: [
+        ['Ana','Bill','Claudette','Danny','Erika','Fred','Grace','Henri','Ida','Joaquin','Kate','Larry','Mindy','Nicholas','Odette','Peter','Rose','Sam','Teresa','Victor','Wanda'],
+        ['Alex','Bonnie','Colin','Danielle','Earl','Fiona','Gaston','Hermine','Ian','Julia','Karl','Lisa','Matthew','Nicole','Otto','Paula','Richard','Shary','Tobias','Virginie','Walter'],
+        ['Arlene','Bret','Cindy','Don','Emily','Franklin','Gert','Harvey','Irma','Jose','Katia','Lee','Maria','Nate','Ophelia','Philippe','Rina','Sean','Tammy','Vince','Whitney'],
+        ['Alberto','Beryl','Chris','Debby','Ernesto','Florence','Gordon','Helene','Isaac','Joyce','Kirk','Leslie','Michael','Nadine','Oscar','Patty','Rafael','Sara','Tony','Valerie','William'],
+        ['Andrea','Barry','Chantal','Dorian','Erin','Fernand','Gabrielle','Humberto','Imelda','Jerry','Karen','Lorenzo','Melissa','Nestor','Olga','Pablo','Rebekah','Sebastien','Tanya','Van','Wendy'],
+        ['Arthur','Bertha','Cristobal','Dolly','Edouard','Fay','Gonzalo','Hanna','Isaias','Josephine','Kyle','Laura','Marco','Nana','Omar','Paulette','Rene','Sally','Teddy','Vicky','Wilfred']
+    ],
+    auxLists: [
+        ['Alpha','Beta','Gamma','Delta','Epsilon','Zeta','Eta','Theta','Iota','Kappa','Lambda','Mu','Nu','Xi','Omicron','Pi','Rho','Sigma','Tau','Upsilon','Phi','Chi','Psi','Omega'],
+        ['Alef','Bet','Gimel','Dalet','He','Vav','Zayin','Het','Tet','Yod','Kaf','Lamed','Mem','Nun','Samekh','Ayin','Pe','Tsadi','Qof','Resh','Shin','Tav'] // Hebrew Alphabet not actually official, but added due to popular demand
+    ]
+});
+
 DesignationSystem.periodicTable = new DesignationSystem({
     displayName: 'Periodic Table',
     suffix: DEPRESSION_LETTER,
@@ -715,6 +844,7 @@ DesignationSystem.presetDesignationSystems = [
     DesignationSystem.PAGASA,
     DesignationSystem.PAGASA1963,
     DesignationSystem.PAGASA2001,
+    DesignationSystem.PAGASA2005,
     DesignationSystem.northIndianOcean,
     DesignationSystem.australianRegionBoM,
     DesignationSystem.southPacific,
@@ -723,6 +853,12 @@ DesignationSystem.presetDesignationSystems = [
     DesignationSystem.australianRegionJakarta,
     DesignationSystem.australianRegionPortMoresby,
     DesignationSystem.atlantic1979,
+    DesignationSystem.atlantic1985,
+    DesignationSystem.atlantic1991,
+    DesignationSystem.atlantic1997,
+    DesignationSystem.atlantic2003,
+    DesignationSystem.atlantic2009,
+    DesignationSystem.atlantic2015,
     DesignationSystem.periodicTable,
     DesignationSystem.periodicTableAnnual
 ];
