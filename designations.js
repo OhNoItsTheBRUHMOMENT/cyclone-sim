@@ -512,12 +512,35 @@ DesignationSystem.westernPacific2000 = new DesignationSystem({
         ["Damrey","Longwang","Kirogi","Kai-tak","Tembin","Bolaven","Chanchu","Jelawat","Ewiniar","Bilis","Gaemi","Prapiroon","Maria","Saomai","Bopha","Wukong","Sonamu","Shanshan","Yagi","Xangsane","Bebinca","Rumbia","Soulik","Cimaron","Jebi","Durian","Utor","Trami"],
         ["Kong-rey","Yutu","Toraji","Man-yi","Usagi","Pabuk","Wutip","Sepat","Fitow","Danas","Nari","Wipha","Francisco","Lekima","Krosa","Haiyan","Podul","Lingling","Kajiki","Faxai","Vamei","Tapah","Mitag","Hagibis","Neoguri","Rammasun","Chataan","Halong"],
         ["Nakri","Fengshen","Kalmaegi","Fung-wong","Kammuri","Phanfone","Vongfong","Rusa","Sinlaku","Hagupit","Jangmi","Mekkhala","Higos","Bavi","Maysak","Haishen","Pongsona","Yanyan","Kujira","Chan-hom","Linfa","Nangka","Soudelor","Imbudo","Goni","Morakot","Etau","Vamco"],
-        ["Krovanh","Dujuan","Maemi","Choi-wan","Koppu","Ketsana","Parma","Melor","Nepartak","Lupit","Mirinae","Sudal","Omais","Conson","Chanthu","Dianmu","Mindulle","Tingting","Kompasu","Namtheun","Malou","Meranti","Rananim","Malakas","Megi","Chaba","Aere","Songda"],
+        ["Krovanh","Dujuan","Maemi","Choi-wan","Koppu","Ketsana","Parma","Melor","Nepartak","Lupit","Sudal","Nida","Omais","Conson","Chanthu","Dianmu","Mindulle","Tingting","Kompasu","Namtheun","Malou","Meranti","Rananim","Malakas","Megi","Chaba","Aere","Songda"],
         ["Sarika","Haima","Meari","Ma-on","Tokage","Nock-ten","Muifa","Merbok","Nanmadol","Talas","Noru","Kulap","Roke","Sonca","Nesat","Haitang","Nalgae","Banyan","Washi","Matsa","Sanvu","Mawar","Guchol","Talim","Nabi","Khanun","Vicente","Saola"]
     ]
 });
-        
-    
+
+DesignationSystem.westernPacific2006 = new DesignationSystem({
+    displayName: 'Western Pacific (2006-2011)',
+    suffix: 'W',
+    mainLists: [
+        ["Damrey","Haikui","Kirogi","Kai-tak","Tembin","Bolaven","Chanchu","Jelawat","Ewiniar","Bilis","Gaemi","Prapiroon","Maria","Saomai","Bopha","Wukong","Sonamu","Shanshan","Yagi","Xangsane","Bebinca","Rumbia","Soulik","Cimaron","Jebi","Durian","Utor","Trami"],
+        ["Kong-rey","Yutu","Toraji","Man-yi","Usagi","Pabuk","Wutip","Sepat","Fitow","Danas","Nari","Wipha","Francisco","Lekima","Krosa","Haiyan","Podul","Lingling","Kajiki","Faxai","Peipah","Tapah","Mitag","Hagibis","Neoguri","Rammasun","Matmo","Halong"],
+        ["Nakri","Fengshen","Kalmaegi","Fung-wong","Kammuri","Phanfone","Vongfong","Nuri","Sinlaku","Hagupit","Jangmi","Mekkhala","Higos","Bavi","Maysak","Haishen","Noul","Dolphin","Kujira","Chan-hom","Linfa","Nangka","Soudelor","Molave","Goni","Morakot","Etau","Vamco"],
+        ["Krovanh","Dujuan","Mujigae","Choi-wan","Koppu","Ketsana","Parma","Melor","Nepartak","Lupit","Mirinae","Nida","Omais","Conson","Chanthu","Dianmu","Mindulle","Lionrock","Kompasu","Namtheun","Malou","Meranti","Fanapi","Malakas","Megi","Chaba","Aere","Songda"],
+        ["Sarika","Haima","Meari","Ma-on","Tokage","Nock-ten","Muifa","Merbok","Nanmadol","Talas","Noru","Kulap","Roke","Sonca","Nesat","Haitang","Nalgae","Banyan","Washi","Pakhar","Sanvu","Mawar","Guchol","Talim","Doksuri","Khanun","Vicente","Saola"]
+    ]
+});
+
+DesignationSystem.westernPacific2012 = new DesignationSystem({
+    displayName: 'Western Pacific (2012-2017)',
+    suffix: 'W',
+    mainLists: [
+        ["Damrey","Haikui","Kirogi","Kai-tak","Tembin","Bolaven","Sanba","Jelawat","Ewiniar","Maliksi","Gaemi","Prapiroon","Maria","Son-Tinh","Bopha","Wukong","Sonamu","Shanshan","Yagi","Leepi","Bebinca","Rumbia","Soulik","Cimaron","Jebi","Mangkhut","Utor","Trami"],
+        ["Kong-rey","Yutu","Toraji","Man-yi","Usagi","Pabuk","Wutip","Sepat","Fitow","Danas","Nari","Wipha","Francisco","Lekima","Krosa","Haiyan","Podul","Lingling","Kajiki","Faxai","Peipah","Tapah","Mitag","Hagibis","Neoguri","Rammasun","Matmo","Halong"],
+        ["Nakri","Fengshen","Kalmaegi","Fung-wong","Kammuri","Phanfone","Vongfong","Nuri","Sinlaku","Hagupit","Jangmi","Mekkhala","Higos","Bavi","Maysak","Haishen","Noul","Dolphin","Kujira","Chan-hom","Linfa","Nangka","Soudelor","Molave","Goni","Atsani","Etau","Vamco"],
+        ["Krovanh","Dujuan","Mujigae","Choi-wan","Koppu","Champi","In-fa","Melor","Nepartak","Lupit","Mirinae","Nida","Omais","Conson","Chanthu","Dianmu","Mindulle","Lionrock","Kompasu","Namtheun","Malou","Meranti","Rai","Malakas","Megi","Chaba","Aere","Songda"],
+        ["Sarika","Haima","Meari","Ma-on","Tokage","Nock-ten","Muifa","Merbok","Nanmadol","Talas","Noru","Kulap","Roke","Sonca","Nesat","Haitang","Nalgae","Banyan","Hato","Pakhar","Sanvu","Mawar","Guchol","Talim","Doksuri","Khanun","Vicente","Saola"]
+    ]
+});
+
 
 DesignationSystem.PAGASA = new DesignationSystem({
     displayName: 'PAGASA',
@@ -687,6 +710,8 @@ DesignationSystem.presetDesignationSystems = [
     DesignationSystem.westernPacific1989,
     DesignationSystem.westernPacific1996,
     DesignationSystem.westernPacific2000,
+    DesignationSystem.westernPacific2006,
+    DesignationSystem.westernPacific2012,
     DesignationSystem.PAGASA,
     DesignationSystem.PAGASA1963,
     DesignationSystem.PAGASA2001,
