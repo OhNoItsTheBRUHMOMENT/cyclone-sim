@@ -818,11 +818,11 @@ DesignationSystem.atlantic2015 = new DesignationSystem({
     ]
 });
 
-DesignationSystem.periodicTable = new DesignationSystem({
-    displayName: 'Periodic Table',
+DesignationSystem.bruhlist = new DesignationSystem({
+    displayName: 'Bruhs List',
     suffix: DEPRESSION_LETTER,
     mainLists: [
-        ["Anais","Beryl","Clyde","Daryl","Ella","Francine","Grayson","Harrison","Igme","Jolina","Karl","Lawin","Maria","Neneng","Oliver","Parker","Rita","Seniang","Tembin","Vincent","Wilma","Xabel","Yolanda","Zuma","Manganese","Iron","Cobalt","Nickel","Copper","Zinc","Gallium","Germanium","Arsenic","Selenium","Bromine","Krypton","Rubidium","Strontium","Yttrium","Zirconium","Niobium","Molybdenum","Technetium","Ruthenium","Rhodium","Palladium","Silver","Cadmium","Indium","Tin","Antimony","Tellurium","Iodine","Xenon","Caesium","Barium","Lanthanum","Cerium","Praseodymium","Neodymium","Promethium","Samarium","Europium","Gadolinium","Terbium","Dysprosium","Holmium","Erbium","Thulium","Ytterbium","Lutetium","Hafnium","Tantalum","Tungsten","Rhenium","Osmium","Iridium","Platinum","Gold","Mercury","Thallium","Lead","Bismuth","Polonium","Astatine","Radon","Francium","Radium","Actinium","Thorium","Protactinium","Uranium","Neptunium","Plutonium","Americium","Curium","Berkelium","Californium","Einsteinium","Fermium","Mendelevium","Nobelium","Lawrencium","Rutherfordium","Dubnium","Seaborgium","Bohrium","Hassium","Meitnerium","Darmstadtium","Roentgenium","Copernicium","Nihonium","Flerovium","Moscovium","Livermorium","Tennessine","Oganesson"]
+        ["Anais","Beryl","Clyde","Daryl","Ella","Francine","Grayson","Harrison","Igme","Jolina","Karl","Lawin","Maria","Neneng","Oliver","Parker","Rita","Seniang","Tembin","Vincent","Wilma","Xabel","Yolanda","Zuma","Lily","Lisa","Lola","Lana","Lucy","Lincoln","Lynn","Luan","Luna","Leni","Lori","Alpha","Beta","Gamma","Delta","Epsilon","Zeta","Eta","Theta","Iota","Kappa","Lambda","Mu","Nu","Xi","Omicron","Pi","Rho","Sigma","Tau","Upsilon","Phi","Chi","Psi","Omega"]
     ]
 });
 
@@ -859,6 +859,6 @@ DesignationSystem.presetDesignationSystems = [
     DesignationSystem.atlantic2003,
     DesignationSystem.atlantic2009,
     DesignationSystem.atlantic2015,
-    DesignationSystem.periodicTable,
+    DesignationSystem.bruhlist,
     DesignationSystem.periodicTableAnnual
 ];
