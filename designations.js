@@ -818,7 +818,7 @@ DesignationSystem.atlantic2015 = new DesignationSystem({
     ]
 });
 
-DesignationSystem.bruhlist = new DesignationSystem({
+DesignationSystem.bruhslist = new DesignationSystem({
     displayName: 'Bruhs List',
     suffix: DEPRESSION_LETTER,
     mainLists: [
@@ -859,6 +859,6 @@ DesignationSystem.presetDesignationSystems = [
     DesignationSystem.atlantic2003,
     DesignationSystem.atlantic2009,
     DesignationSystem.atlantic2015,
-    DesignationSystem.bruhlist,
+    DesignationSystem.bruhslist,
     DesignationSystem.periodicTableAnnual
 ];
