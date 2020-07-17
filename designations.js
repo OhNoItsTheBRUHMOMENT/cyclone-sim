@@ -545,7 +545,6 @@ DesignationSystem.westernPacific2028 = new DesignationSystem({
     displayName: 'Western Pacific (2028)',
     suffix: 'W',
     mainLists: [
-        ["Trases","Mulan
         ["Damrey","Haikui","Kirogi","Yun-yeung","Koinu","Xebangfai","Sanba","Jelawat","Ewiniar","Maliksi","Gaemi","Prapiroon","Maria","Son-Tinh","Ampil","Wukong","Jongdari","Shanshan","Yagi","Leepi","Bebinca","Kaphrao","Soulik","Cimaron","Baram","Pulasan","Songyit","Trami"],
         ["Chantrea","Yutu","Toraji","Man-yi","Sora","Pabuk","Wutip","Sepat","Mun","Danas","Nari","Wipha","Jaiden","Somboon","Punthea","Kikanay","Podul","Lingling","Yuzuki","Sengphet","Peipah","Tapah","Matua","Michelle","Neoguri","Bualoi","Matmo","Halong"],
         ["Nakri","Shenwei","Kalmaegi","Fung-wong","Haruka","Kalani","Vongfong","Nuri","Sinlaku","Hagupit","Jangmi","Sokha","Harrison","Bavi","Maysak","Kwan","Noul","Yanyan","Kujira","Chan-hom","Linfa","Nangka","Saudel","Molave","Goni","Atsani","Etau","Vamco"],
