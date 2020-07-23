@@ -899,9 +899,9 @@ DesignationSystem.atlantic2027 = new DesignationSystem({
         ['Ana','Bill','Cosmo','Danny','Emma','Fred','Grace','Harrison','Ida','Julian','Ketsane','Larry','Mindy','Nicholas','Odette','Peter','Rose','Sam','Teresa','Victor','Wanda'],
         ['Alex','Bonnie','Colin','Danielle','Earl','Florelle','Grayson','Hermine','Igor','Jennifer','Karl','Lisa','Matt','Nicole','Owen','Paula','Richard','Shary','Tobias','Virginie','Walter'],
         ['Arlene','Bret','Cindy','Don','Emily','Franklin','Gert','Harold','Irgot','James','Katasha','Lincoln','Mallory','Nelson','Ophelia','Philippe','Rina','Seth','Tammy','Vince','Whitney'],
-        ['Alberto','Beryl','Chris','Darcy','Ernesto','Francine','Gerald','Helene','Isaac','Joyce','Kurt','Lori','Mason','Nathalie','Oscar','Patty','Rafael','Sara','Tony','Valerie','William'],
+        ['Alberto','Beryl','Chris','Darcy','Ernesto','Francine','Gerald','Helene','Isaac','Jaiden','Kenny','Lori','Mason','Nathalie','Oscar','Patty','Rafael','Sara','Tony','Valerie','William'],
         ['Andrea','Barry','Chantal','Drew','Erin','Fernand','Greta','Henry','Isha','Jerry','Karen','Lawin','Melissa','Nestor','Olga','Pablo','Rebekah','Sebastien','Tanya','Van','Wendy'],
-        ['Arthur','Bertha','Cristobal','Dolly','Edouard','Fay','Gabriel','Hanna','Ismael','Jaiden','Kyle','Leni','Marco','Nancy','Omar','Paloma','Roger','Sally','Teddy','Vicky','Wilfred']
+        ['Arthur','Bertha','Cristobal','Dolly','Edouard','Fay','Gabriel','Hanna','Ismael','Joanna','Kyle','Luan','Marco','Nancy','Omar','Paloma','Roger','Sally','Teddy','Vicky','Wilfred']
     ],
     auxLists: [
         ['Alpha','Beta','Gamma','Delta','Epsilon','Zeta','Eta','Theta','Iota','Kappa','Lambda','Mu','Nu','Xi','Omicron','Pi','Rho','Sigma','Tau','Upsilon','Phi','Chi','Psi','Omega'],
