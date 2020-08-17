@@ -545,7 +545,7 @@ DesignationSystem.westernPacific2028 = new DesignationSystem({
     displayName: 'Western Pacific (2028)',
     suffix: 'W',
     mainLists: [
-        ["Damrey","Haikui","Kirogi","Yun-yeung","Koinu","Xebangfai","Sanba","Jelawat","Ewiniar","Maliksi","Gaemi","Prapiroon","Maria","Son-Tinh","Ampil","Wukong","Jongdari","Shanshan","Yagi","Leepi","Bebinca","Kaphrao","Soulik","Cimaron","Baram","Pulasan","Songyit","Trami"],
+        ["Damrey","Haikui","Kirogi","Yun-yeung","Koinu","Xebangfai","Sanba","Jelawat","Ewiniar","Maliksi","Gaemi","Prapiroon","Maria","Son-Tinh","Ampil","Wukong","Jongdari","Shanshan","Yagi","Leepi","Bebinca","Pulasan","Soulik","Cimaron","Baram","Krathon","Songyit","Trami"],
         ["Chantrea","Yutu","Toraji","Man-yi","Sora","Pabuk","Wutip","Sepat","Mun","Danas","Nari","Wipha","Jaiden","Somboon","Punthea","Kikanay","Podul","Lingling","Yuzuki","Sengphet","Peipah","Tapah","Matua","Michelle","Neoguri","Bualoi","Matmo","Halong"],
         ["Nakri","Shenwei","Kalmaegi","Fung-wong","Haruka","Kalani","Vongfong","Nuri","Sinlaku","Hagupit","Jangmi","Sokha","Harrison","Bavi","Maysak","Kwan","Noul","Yanyan","Kujira","Chan-hom","Linfa","Nangka","Saudel","Molave","Goni","Atsani","Etau","Vamco"],
         ["Wattana","Dujuan","Surigae","Choi-wan","Koguma","Champi","In-fa","Sirena","Nepartak","Lupit","Mirinae","Nida","Omais","Conson","Chanthu","Dianmu","Mindulle","Tingting","Kompasu","Namtheun","Jaewha","Nyatoh","Rai","Malakas","Megi","Chaba","Luna","Songda"],
@@ -595,7 +595,7 @@ DesignationSystem.westernPacificwmhb2020 = new DesignationSystem({
     mainLists: [
         ["Damrey","Longwang","Akius","Kai-tak","Koinu","Bolaven","Chanchu","Jelawat","Ewiniar","Maliksi","Gaemi","Prapiroon","Songyit","Saomai","Ampil","Jasni","Sonamu","Shanshan","Yoshida","Xangsane","Maricel","Rumbia","Soulik","Cimaron","Baram","Durian","Utor","Trami"],
         ["Chantrea","Yutu","Toraji","Man-yi","Sora","Pabuk","Wutip","Gyeong","Fitow","Danas","Nari","Wipha","Francisco","Somboon","Punthea","Kikanay","Podul","Lingling","Yuzuki","Sengphet","Vamei","Tapah","Apwete","Michelle","Isagani","Rammasun","Chataan","Halong"],
-        ["Ketnien","Shunwei","Kalmaegi","Fung-wong","Kammuri","Kalani","Vongfong","Nuri","Sinlaku","Hagupit","Jangmi","Sokha","Qiangsu","Bavi","Liausak","Kwan","Pongsona","Yanyan","Kujira","Chan-hom","Linfa","Nangka","Soudelor","Molave","Goni","Morakot","Etau","Vamco"],
+        ["Ketnien","Shunwei","Kalmaegi","Fung-wong","Kammuri","Kalani","Vongfong","Nuri","Sinlaku","Hagupit","Jangmi","Sokha","Qiangsu","Bavi","Liausak","Kwan","Pongsona","Yanyan","Kujira","Chan-hom","Linfa","Nangka","Soudelor","Imbudo","Goni","Morakot","Etau","Vamco"],
         ["Krovanh","Wattana","Maemi","Choi-wan","Koguma","Ketsana","Parma","Sirena","Nepartak","Lupit","Sudal","Nida","Omais","Conson","Chanthu","Dianmu","Mindulle","Tingting","Kompasu","Namtheun","Jaewha","Nyatoh","Rananim","Malakas","Megi","Chaba","Aere","Songda"],
         ["Sarika","Haima","Meari","Ma-on","Tokage","Hinnamnor","Muifa","Merbok","Nanmadol","Xiaoping","Noru","Kulap","Roke","Sonca","Anis","Haitang","Nalgae","Tomiko","Washi","Makani","Alamea","Mawar","Guchol","Talim","Nabi","Khanun","Vicente","Saola"]
     ]
